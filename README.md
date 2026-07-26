@@ -5,6 +5,8 @@ A short, opinionated reference of the dbt patterns that come up **weekly** in pr
 > **Why this repo exists:** I kept writing the same patterns from scratch on every project and looking up the same syntax. I organized them into a [printable 25-page reference pack](https://khangster587.gumroad.com/l/kowxqb) ($7.99) covering commands, SCD-2, incremental models, the 8 DQ tests every project needs, Jinja macros, materializations, and partition/cluster patterns.
 >
 > The patterns below are **free** — copy them into your project. If you want the full printable PDF with all 25 pages, that's the paid version linked above. No pressure.
+>
+> **Companion repo:** [sql-for-data-engineers-preview](https://github.com/KhangYen/sql-for-data-engineers-preview) — the same treatment for pipeline SQL (window functions, MERGE idioms, query plans, NULL handling) across Postgres/BigQuery/Snowflake/Databricks.
 
 ---
 
